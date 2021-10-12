@@ -2,7 +2,7 @@
 
 ## 2021
 
-***[Minesweeper](https://endymc.github.io/Minesweeper)***
+- ***[Minesweeper](https://endymc.github.io/Minesweeper)***
 
 ## 2020
 
